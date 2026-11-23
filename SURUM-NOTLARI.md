@@ -4,8 +4,7 @@
 
 İlk herkese açık sürüm.
 
-> 1.2.0 en yeni sürümdür. Daha önce elden dağıtılmış 2.0.0 ve 2.1.0 numaralı deneme kurulumları eskidir;
-> numaralandırma yeniden başlatılmıştır.
+> 1.2.0 en yeni sürümdür.
 
 **Genel**
 - Lisans anahtarı ve etkinleştirme yoktur; kuran herkes kullanır.
